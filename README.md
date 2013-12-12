@@ -1,7 +1,7 @@
-TransformAdminUITests
+AngularBoilerplateUITests
 =====================
 
-Selenium test suite for transform admin HTML
+Selenium test suite for angular boilerplate HTML
 
 [Installing](#Installation)  
 [Running Tests](#Run)
@@ -24,7 +24,7 @@ And copy it to
 
 ###<a name="Run"></a>Run Tests###  
 In the folder where you can find this readme file run   
-``BASE_URL="http://transformadmin.dev/" cucumber``  
+``BASE_URL="http://localhost:8000/" cucumber``  
 Where BASE_URL points to the site you would like to test
 
 
